@@ -1,0 +1,59 @@
+.tablaTonalidad{
+	width: 100%;
+	margin: auto;
+
+}
+tr{
+	font-size: 30px;
+	width: 1/8%;
+
+}
+ tr td{
+	font-size: 30px;
+	width: 1/8%;
+}
+
+
+.tablaTonalidad tr :hover{
+background-color: #6f61a0;
+  cursor: pointer;
+
+
+}
+.tablaTonalidad tr {
+	background-color: #A581DA;
+  	border: solid 1px;
+	width: 1/8%;
+}
+
+
+.content{
+	width: 10%;
+	height: 10px;
+	align-items: center;
+	align-content: center;
+	margin: 10px;
+	float: left;
+
+}
+table caption{
+	font-size: 20px;
+}
+.menor{
+	text-align: left;
+}
+audio{
+	display: none;
+}
+.botonTabla{
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	padding: 5px;
+	font-size: 30px;
+	background-color: #A581DA;
+}
+#Notes{
+	background-color: #000;
+	border: solid 1px ;
+}
